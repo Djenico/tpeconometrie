@@ -5,3 +5,5 @@ statsmodels
 notebook
 matplotlib
 scikit-learn
+sympy
+seaborn
